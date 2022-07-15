@@ -1,0 +1,15 @@
+php -S localhost:8001 -t public
+
+migration
+
+php artisan make:migration CreateBooksTable --create=books
+
+php artisan migrate
+
+if error in migration
+php artisan migrate:fresh
+
+
+php artisan db:seed
+
+php artisan migrate:fresh --seed
