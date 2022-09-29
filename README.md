@@ -1,5 +1,5 @@
 # Lumen Microservices
 Darío Chiappello
 
-### Arquitecture
+### Architecture
 ![image info](./Arquitecture.png)
