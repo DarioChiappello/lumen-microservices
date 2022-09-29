@@ -1,5 +1,0 @@
-php -s localhost:8000 -t .\public
-
-
-el que va
-php -S localhost:8000 -t public
